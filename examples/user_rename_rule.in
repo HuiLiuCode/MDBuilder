@@ -1,0 +1,16 @@
+aliasres HIS HSE
+aliasres HOH TIP3
+aliasres WAT TIP3
+aliasres ZN ZN2
+aliasres NA SOD
+aliasres CS CES
+aliasres CL CLA
+aliasres K POT
+aliasatom ILE:CD1 CD
+aliasatom HOH:O OH2
+aliasatom WAT:O OH2
+aliasatom :OXT OT2
+aliasatom NA:NA SOD
+aliasatom CS:CS CES
+aliasatom CL:CL CLA
+aliasatom POT:POT POT
