@@ -7,12 +7,9 @@ MDBuilder is a program that generates initial models for molecular dynamics
 
 * [Python](http://www.python.org/) 2.7
 
+* [NumPy](http://www.numpy.org/)
+
 * [PyMOL](http://www.pymol.org/)
-
-### Installation
-
-It can be installed into the correct directory automatically by PyMOL, via the
-"Install Plugin..." menu item.
 
 ### License
 
